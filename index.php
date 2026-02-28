@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kebijakan Privasi Micros Apps</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-color: #f8f9fa;
+      color: #212529;
+    }
+    header {
+      background: #1e3a8a;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 24px;
+    }
+    main {
+      max-width: 800px;
+      margin: 30px auto;
+      padding: 20px;
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #1e3a8a;
+      font-size: 20px;
+      margin-top: 24px;
+    }
+    p {
+      margin: 12px 0;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 14px;
+      color: #666;
+    }
+    footer a {
+      color: #1e3a8a;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Kebijakan Privasi Micros Apps</h1>
+  </header>
+  <main>
+    <p><strong>Tanggal Berlaku:</strong> 19/09/2025</p>
+
+    <p>Micros Apps (“Aplikasi”) adalah aplikasi resmi dari pembuat perangkat Micros (“Kami”). 
+    Aplikasi ini digunakan sebagai pendamping perangkat Micros dengan tujuan membantu pengguna 
+    dalam mengakses, mengatur, dan menganalisis data balapan.</p>
+
+    <p>Kami sangat menghargai privasi pengguna dan berkomitmen untuk melindungi data pribadi Anda. 
+    Dengan menggunakan aplikasi ini, Anda menyetujui kebijakan privasi berikut:</p>
+
+    <h2>1. Informasi yang Kami Kumpulkan</h2>
+    <p>- <strong>Data Perangkat:</strong> termasuk informasi teknis dari gadget Micros yang terhubung, 
+    seperti pengaturan, hasil pengukuran, dan riwayat penggunaan.</p>
+    <p>- <strong>Data Jaringan:</strong> alamat IP lokal, SSID WiFi, dan informasi koneksi 
+    yang diperlukan untuk menghubungkan aplikasi dengan perangkat Micros.</p>
+    <p>- <strong>Data Lokasi (GPS dan WiFi-based location):</strong> aplikasi mengakses data lokasi 
+    (perkiraan maupun presisi) untuk menghubungkan aplikasi dengan perangkat Micros melalui WiFi, 
+    menentukan titik start/finish balapan, serta mencatat data balapan meskipun aplikasi berjalan 
+    di latar belakang.</p>
+    <p>- <strong>Data Penggunaan Aplikasi:</strong> preferensi, riwayat sesi, dan interaksi dengan fitur aplikasi.</p>
+    <p>Kami <strong>tidak</strong> mengumpulkan data pribadi sensitif seperti nama, alamat, nomor telepon, email, atau informasi keuangan.</p>
+
+    <h2>2. Cara Penggunaan Data</h2>
+    <p>Data yang dikumpulkan digunakan hanya untuk:</p>
+    <ul>
+      <li>Menghubungkan aplikasi dengan perangkat Micros.</li>
+      <li>Menentukan lintasan balapan berdasarkan lokasi pengguna.</li>
+      <li>Mencatat data balapan secara akurat, termasuk saat aplikasi berjalan di latar belakang.</li>
+      <li>Menyimpan riwayat balapan dan hasil pengukuran.</li>
+      <li>Meningkatkan kinerja aplikasi, pengalaman pengguna, serta kualitas layanan.</li>
+    </ul>
+
+    <h2>3. Penyimpanan dan Keamanan Data</h2>
+    <p>- Data lokasi dan data lainnya tersimpan <strong>hanya secara lokal</strong> di perangkat pengguna.<br>
+    - Kami tidak mengirim atau menyimpan data ke server eksternal, 
+    kecuali bila di masa depan ada layanan cloud yang akan diinformasikan secara resmi.<br>
+    - Kami menerapkan standar keamanan aplikasi untuk melindungi data pengguna dari akses tidak sah.</p>
+
+    <h2>4. Berbagi Data</h2>
+    <p>Kami tidak membagikan data pengguna kepada pihak ketiga, kecuali:</p>
+    <ul>
+      <li>Diperlukan oleh hukum dan peraturan yang berlaku.</li>
+      <li>Dengan persetujuan langsung dari pengguna.</li>
+    </ul>
+
+    <h2>5. Hak Pengguna</h2>
+    <p>Pengguna berhak untuk:</p>
+    <ul>
+      <li>Menghapus data riwayat yang tersimpan dalam aplikasi.</li>
+      <li>Menolak atau menghentikan penggunaan aplikasi kapan saja.</li>
+    </ul>
+
+    <h2>6. Perubahan Kebijakan Privasi</h2>
+    <p>Kami dapat memperbarui kebijakan privasi ini sewaktu-waktu. 
+    Perubahan akan diumumkan melalui aplikasi atau situs resmi kami.</p>
+
+    <h2>7. Kontak</h2>
+    <p>Jika ada pertanyaan terkait kebijakan privasi ini, silakan hubungi kami melalui:</p>
+    <p><strong>Email:</strong> iqbal.firzal@gmail.com</p>
+    <p><strong>Website:</strong> https://www.instagram.com/micros.indonesia</p>
+  </main>
+  <footer>
+    <p>&copy; 2025 Micros. All rights reserved. | <a href="#">Kembali ke Atas</a></p>
+  </footer>
+</body>
+</html>
